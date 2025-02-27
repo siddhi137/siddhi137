@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Siddhi👋
 
-<!--
-**siddhi137/siddhi137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with a strong focus on creating interactive and user-friendly websites and applications. I specialize in both front-end and back-end technologies, including HTML, CSS, JavaScript, Express and Node.js. With a love for open-source contributions, I enjoy collaborating with others to solve real-world problems and continuously improve my skills. I'm always eager to take on new challenges, learn, and make a positive impact in the developer community.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 I'm currently working on various web development projects.
+- 📫 How to reach me: [ssiddhi0017@gmail.com](mailto:ssiddhi0017@gmail.com)
+- ⚡ Fun fact: I love solving puzzles and playing Ludo!
+
+## 🔧 Technologies & Tools
+
+- 🖥️ Languages: JavaScript, Python, HTML/CSS
+- 🛠️ Tools: Git, VS Code, Figma
+- 📦 Frameworks: Express
+
+
+
+
