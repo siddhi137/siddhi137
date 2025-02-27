@@ -7,7 +7,7 @@ I'm a passionate web developer with a strong focus on creating interactive and u
 
 - 💻 I'm currently working on various web development projects.
 - 📫 How to reach me: Gmail: [ssiddhi0017@gmail.com](ssiddhi0017@gmail.com)
-  Linkedin: [linkedin](www.linkedin.com/in/siddhi-undefined-06aab1293)
+  Linkedin: [www.linkedin.com/in/siddhi-undefined-06aab1293](www.linkedin.com/in/siddhi-undefined-06aab1293)
 - ⚡ Fun fact: I love solving puzzles and playing Ludo!
 
 ## 🔧 Technologies & Tools
